@@ -5,7 +5,7 @@ In this repository you can find two folders.
 
 One named “curesurv_R” which includes:
 
-  * A pdf file entitled "How to estimate a new mixture cure model for increased risk of non-cancer death" that illustrates the data analysis using the conventional and new models presented in the article and guides the user through the installation part of the R package.This can be accessed online through: https://rpubs.com/Goungounga/994890
+  * A pdf file entitled "How to estimate a new mixture cure model for increased risk of non-cancer death" that illustrates the data analysis using the conventional and new models presented in the article and guides the user through the installation part of the R package. This can be accessed online through: https://rpubs.com/Goungounga/994890
   
   * A folder called “curesurv” includes the R package curesurv in tar.gz version. This package allows to fit a variety of cure models using the excess-risk modelling methodology, including the new mixed cure model.
 
