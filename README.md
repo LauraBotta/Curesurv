@@ -20,6 +20,7 @@ The second, called 'curesurv_Stata', comprises:
   * A .dta file named "extcuremod_estimates" that includes the results of the example for final comparison.
 
 **Reference**
+
 Botta, L., J. Goungounga, R. Capocaccia, G. Romain, M. Colonna, G. Gatta, O. Boussari, and V. Jooste
 “A new cure model that corrects for increased risk of non-cancer death. Analysis of reliability and robustness, and application to real-life data.”  
 
