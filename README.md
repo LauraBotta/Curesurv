@@ -17,8 +17,10 @@ The second, called 'curesurv_Stata', comprises:
   
   * A .dta file named “'lifetable” that includes the simulated lifetable of a general population.
   
-  * A .dta file named "extcuremod_estimates" that includes the results of the example for final      comparison.
+  * A .dta file named "extcuremod_estimates" that includes the results of the example for final comparison.
 
 **Reference**
 Botta, L., J. Goungounga, R. Capocaccia, G. Romain, M. Colonna, G. Gatta, O. Boussari, and V. Jooste
 “A new cure model that corrects for increased risk of non-cancer death. Analysis of reliability and robustness, and application to real-life data.”  
+
+Laura Botta. (2023). LauraBotta/curesurvTools: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.7567886
